@@ -1,2 +1,3 @@
-# copilot-segment-instructions-test
-Validating how to apply standards to copilot selectively 
+# 📦 Copilot Segment Instructions
+
+> Validating how it works to segment copilot custom instructions for specific use-cases

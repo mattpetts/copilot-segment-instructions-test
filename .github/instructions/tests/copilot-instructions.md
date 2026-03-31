@@ -1,0 +1,1 @@
+Tests should use the file extension .test.ts(x) and file names should be kebab-case.
