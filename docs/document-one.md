@@ -1,3 +1,15 @@
-# Title
+# 0004 / SSO Provider
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed nunc ac mauris tempus eleifend a quis metus. Nulla vestibulum nisl non dui dictum, a mollis metus porta. Praesent dignissim arcu vel tempus pellentesque. Maecenas convallis molestie ultricies. Morbi ante tortor, posuere et bibendum eget, sollicitudin eget purus. Etiam dignissim, justo et fermentum dictum, tortor libero pharetra dolor, non condimentum purus justo quis ante. Ut pretium dui vel nulla vulputate faucibus. Fusce porta velit non leo fermentum, accumsan accumsan purus tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ultricies magna erat, in commodo justo vestibulum vitae. Vestibulum eget diam magna.
+# Decision
+We will implement SSO using next/auth and connecting to Azure Active Directory so that staff can log in with their Microsoft accounts
+
+# Status
+Accepted
+
+# Responsibility
+Me
+
+# Date
+31/03/2026
+
+# Comments
