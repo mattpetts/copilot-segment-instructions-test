@@ -7,10 +7,9 @@ We will implement SSO using oauth and the editors existing WordPress login crede
 Superseded by [0004](0004-SSO-provider.md)
 
 # Responsibility
-AIBOX Engineering Squad
+Me
 
 # Date
-30/05/2025
+31/03/2026
 
 # Comments
-Decision was between Microsoft SSO and WordPress. The engineers felt that it would be a better experience for the users to be able to log into the toolbox using the same details they use to log into the platform that they publish articles on. This should also allow us some integration options in future, such as dynamically pulling a users posts out of WordPress based on their username/user ID.

@@ -7,9 +7,9 @@ We will implement SSO using next/auth and connecting to Azure Active Directory s
 Accepted
 
 # Responsibility
-AIBOX Engineering Squad
+Me
 
 # Date
-06/06/2025
+31/03/2026
 
 # Comments
