@@ -1,3 +1,6 @@
+applyTo: "/components"
+
+# Component Guidelines
 Components should have file extension .tsx. 
 
 Components should use kebab-case naming convention. 
